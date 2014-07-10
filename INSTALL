@@ -1,0 +1,4 @@
+Put this folder in your extensions directory and add to your LocalSettings.php and marvel at the brokenness.
+
+require_once "$IP/extensions/Agora/Agora.php";
+
